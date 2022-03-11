@@ -7,6 +7,7 @@ Keep in mind, folders will be sorted as such:
 
 Mod Name --> Doc Writer --> docs
 
-(Make a pull request adding your doc if you want to help!)
+(Make a pull request adding your doc if you want to help!)\n
 Credits:
+
 Currrently... just me, sadly.
